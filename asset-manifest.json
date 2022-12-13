@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1314e756.css",
-    "main.js": "/static/js/main.6ca1d61e.js",
-    "static/js/787.815436e7.chunk.js": "/static/js/787.815436e7.chunk.js",
-    "index.html": "/index.html",
-    "main.1314e756.css.map": "/static/css/main.1314e756.css.map",
-    "main.6ca1d61e.js.map": "/static/js/main.6ca1d61e.js.map",
-    "787.815436e7.chunk.js.map": "/static/js/787.815436e7.chunk.js.map"
+    "main.css": "/%7BRick-and-Morty-Wiki%7D/static/css/main.1314e756.css",
+    "main.js": "/%7BRick-and-Morty-Wiki%7D/static/js/main.230975eb.js",
+    "static/js/787.815436e7.chunk.js": "/%7BRick-and-Morty-Wiki%7D/static/js/787.815436e7.chunk.js",
+    "index.html": "/%7BRick-and-Morty-Wiki%7D/index.html",
+    "main.1314e756.css.map": "/%7BRick-and-Morty-Wiki%7D/static/css/main.1314e756.css.map",
+    "main.230975eb.js.map": "/%7BRick-and-Morty-Wiki%7D/static/js/main.230975eb.js.map",
+    "787.815436e7.chunk.js.map": "/%7BRick-and-Morty-Wiki%7D/static/js/787.815436e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1314e756.css",
-    "static/js/main.6ca1d61e.js"
+    "static/js/main.230975eb.js"
   ]
 }
